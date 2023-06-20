@@ -1,0 +1,1676 @@
+[
+    {
+        "configurationPacket": {
+            "415551616994": {
+                "permission": "PERMISSION_SEND_MODIFY"
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T14:57:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 699,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:02:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 701,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:07:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 704,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:12:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 706,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:17:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:22:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:27:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:32:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:37:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 707,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:42:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:47:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 710,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:52:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 711,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T15:57:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 713,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:02:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 715,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:07:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 715,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:12:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 713,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:17:34Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 710,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:22:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 707,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:27:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 705,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:32:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 703,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:37:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 703,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:42:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 704,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:47:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 706,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:52:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 706,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_OFF",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T16:57:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 707,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:02:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:07:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 709,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:12:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 708,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:17:31Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 704,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:22:20Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 701,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:27:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 698,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:32:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 698,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:37:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 699,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:42:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 700,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:47:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 701,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:52:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 702,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T17:57:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 703,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:02:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 703,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 23
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:07:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 704,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:12:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 702,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:17:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 699,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:22:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 696,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:27:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 695,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:32:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 695,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:37:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 697,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:42:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 698,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:47:32Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 699,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:52:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 701,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    },
+    {
+        "thermostatPacket": {
+            "415551616994": {
+                "info": {
+                    "product": "PRODUCT_ECOBEE_3_LITE",
+                    "version": "4.7.63.8",
+                    "id": "415551616994"
+                },
+                "settings": {
+                    "hvacMode": "HVAC_HEAT",
+                    "deadband10xF": 50,
+                    "outdoorTempLockout10xF": 350
+                },
+                "config": {
+                    "programMode": "PRGM_MODE_HOLD",
+                    "fanMode": "FAN_MODE_AUTO",
+                    "numFanStages": 1,
+                    "numCompressorStages": 1,
+                    "numHeatStages": 2,
+                    "smartSensorCnt": 1,
+                    "heatSetpoint10xF": 660,
+                    "coolSetpoint10xF": 660
+                },
+                "data": {
+                    "timestamp": "2023-01-26T18:57:33Z",
+                    "outdoorTemperature10xF": -5002,
+                    "indoorTemperature10xF": 703,
+                    "outdoorHumidityPer": 4294962294,
+                    "indoorHumidityPer": 22
+                }
+            },
+            "version": 3
+        }
+    }
+]
